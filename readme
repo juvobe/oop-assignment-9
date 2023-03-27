@@ -1,0 +1,2 @@
+Linkki videoon: https://youtu.be/tLsejkJDzdU
+recyclerviewin sain tulostamaan vaan ensimmäisen inputin, en osaa sanoa mistä johtui, output tulee kuitenkin ainakin konsoliin. Lisäksi tietojenkysymismetodi on mainissa koska omassa metodissaan se ei toiminut main layoutin kanssa ja en saanut layouttia mitenkään muuten toimimaan metodin kanssa.
